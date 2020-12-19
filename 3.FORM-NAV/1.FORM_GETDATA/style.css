@@ -1,0 +1,9 @@
+#mail:invalid{
+    border: 2px solid red;
+}
+#mail:valid{
+    border: 2px solid green;
+}
+#pseudoElement:hover{
+    cursor: pointer;
+}
