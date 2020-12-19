@@ -9,6 +9,10 @@
 
 ## :page_facing_up: General info
 Short initiation course to web development.
+<br><br>Short oral presentation
+[![courswebrpes.png](https://i.postimg.cc/xTy2Vm2b/courswebrpes.png)](https://postimg.cc/dL1X8LDq)
+<br><br>And practise with code
+[![courswebrpes.png](https://i.postimg.cc/xTy2Vm2b/courswebrpes.png)](https://postimg.cc/dL1X8LDq)
 	
 ## :computer: Technologies
 This course is created with:
