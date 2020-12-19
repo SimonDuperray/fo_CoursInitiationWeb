@@ -1,6 +1,6 @@
 # Web Initiation Course
 
-[-> Repository](https://github.com/SimonDuperray/fo_CoursWeb)
+[-> Repository](https://github.com/SimonDuperray/fo_CoursInitiationWeb)
 
 ## :clipboard: Table of contents
 * [General info](#general-info)
@@ -23,5 +23,5 @@ This course is created with:
 ## :cd: Setup
 Clone these files anywhere and browse the code.
 ```batch
-$ git clone https://github.com/SimonDuperray/fo_CoursWeb.git
+$ git clone https://github.com/SimonDuperray/fo_CoursInitiationWeb.git
 ```
