@@ -12,7 +12,7 @@ Short initiation course to web development.
 <br><br>Short oral presentation
 [![courswebrpes.png](https://i.postimg.cc/xTy2Vm2b/courswebrpes.png)](https://postimg.cc/dL1X8LDq)
 <br><br>And practise with code
-[![courswebrpes.png](https://i.postimg.cc/xTy2Vm2b/courswebrpes.png)](https://postimg.cc/dL1X8LDq)
+[![codejs.png](https://i.postimg.cc/W3CkVK0S/codejs.png)](https://postimg.cc/hz8jb2y7)
 	
 ## :computer: Technologies
 This course is created with:
